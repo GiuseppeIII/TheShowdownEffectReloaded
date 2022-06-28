@@ -1,6 +1,6 @@
 ### 08/01/2022 ###
 
-Welcome to **The Showdown Effect Reloaded** Beta!
+**Welcome to The Showdown Effect Reloaded Beta!**
 
 We appreciate your time helping make sure we are error free before the official release.
 
