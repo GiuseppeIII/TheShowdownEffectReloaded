@@ -16,7 +16,7 @@ On a final note, we are currently trying to get the word out about *The Showdown
 
 Thanks to everyone who has participated in the beta! This release contains various bug fixes, balance changes, and small additions. To see a full changelog please check out The Showdown Effect: Reloaded discord.
 
-Due to one of the bugs that was fixed in this release being that the auto-updater was broken, to get this release please re-install TSER at theshowdowneffectreloaded.com(http://theshowdowneffectreloaded.com).
+Due to one of the bugs that was fixed in this release being that the auto-updater was broken, to get this release please re-install TSER at [theshowdowneffectreloaded.com](http://theshowdowneffectreloaded.com).
 
 
 
