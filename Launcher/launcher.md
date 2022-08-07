@@ -1,3 +1,11 @@
+### 08/07/2022 ###
+
+**Beta Version 0.9.5 Released**
+
+Thanks to everyone who has participated in the beta! This release contains various bug fixes, balance changes, and small additions. To see a full changelog please check out The Showdown Effect: Reloaded discord.
+
+Due to one of the bugs that was fixed in this release being that the auto-updater was broken, to get this release please re-install TSER at http://theshowdowneffectreloaded.com.
+
 ### 08/01/2022 ###
 
 **Welcome to The Showdown Effect: Reloaded Beta!**
