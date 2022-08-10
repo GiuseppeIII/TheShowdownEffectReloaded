@@ -3,3 +3,5 @@
 06/23 The Showdown Effect: Reloaded Release Date Announced
 08/01 The Showdown Effect: Reloaded Beta Launches
 08/07 Beta Version 0.9.5 Released
+08/08 Beta Version 0.9.6 Released
+08/09 Beta Version 0.9.7 Released

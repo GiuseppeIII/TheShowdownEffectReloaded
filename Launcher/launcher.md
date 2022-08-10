@@ -18,6 +18,14 @@ Thanks to everyone who has participated in the beta! This release contains vario
 
 Due to one of the bugs that was fixed in this release being that the auto-updater was broken, to get this release please re-install TSER at [theshowdowneffectreloaded.com](http://theshowdowneffectreloaded.com).
 
+### 08/08/2022 ###
 
+**Beta Version 0.9.6 Released**
 
+Small update to improve logging. For the full changelog please visit The Showdown Effect: Reloaded discord.
 
+### 08/09/2022 ###
+
+**Beta Version 0.9.7 Released**
+
+Fixed 'Remember Me' not working for some people. For the full changelog please visit The Showdown Effect: Reloaded discord.
