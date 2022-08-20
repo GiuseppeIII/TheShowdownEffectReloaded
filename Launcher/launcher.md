@@ -29,6 +29,7 @@ Small update to improve logging. For the full changelog please visit The Showdow
 **Beta Version 0.9.7 Released**
 
 Fixed 'Remember Me' not working for some people. For the full changelog please visit The Showdown Effect: Reloaded discord.
+___
 
 
 
