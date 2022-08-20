@@ -32,7 +32,7 @@ Fixed 'Remember Me' not working for some people. For the full changelog please v
 
 ### 08/20/2022 ###
 
-**Welcome to The Showdown Effect: Reloaded!**
+# Welcome to The Showdown Effect: Reloaded! #
 
 Today is the official release of The Showdown Effect: Reloaded! Thanks to all who helped with testing during the beta. We hope you enjoy your time with this ultimate edition of The Showdown Effect! If you have any questions, comments, issues, ideas, or just want to talk about the game please join the [community discord](https://discord.gg/jUDTSUUTkG). See you all in-game!
 
