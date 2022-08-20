@@ -30,6 +30,8 @@ Small update to improve logging. For the full changelog please visit The Showdow
 
 Fixed 'Remember Me' not working for some people. For the full changelog please visit The Showdown Effect: Reloaded discord.
 
+
+
 ### 08/20/2022 ###
 
 # Welcome to The Showdown Effect: Reloaded! #
