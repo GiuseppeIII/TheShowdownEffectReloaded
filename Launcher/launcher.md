@@ -45,8 +45,14 @@ Today is the official release of The Showdown Effect: Reloaded! Thanks to all wh
 For the full changelog between 0.9.7 and the official release, please visit The Showdown Effect: Reloaded discord.
 ___
 
-### 08/09/2022 ###
+### 08/27/2022 ###
 
 **Version 1.0.1 and 1.0.2 Released**
+
+Update with bug and crash fixes, balance tweaks, and small improvements. For the full changelog please visit [The Showdown Effect: Reloaded discord](https://discord.gg/jUDTSUUTkG).
+
+### 08/28/2022 ###
+
+**Version 1.0.3 Released**
 
 Update with bug and crash fixes, balance tweaks, and small improvements. For the full changelog please visit [The Showdown Effect: Reloaded discord](https://discord.gg/jUDTSUUTkG).
