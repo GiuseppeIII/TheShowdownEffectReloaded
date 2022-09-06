@@ -65,4 +65,4 @@ ___
 
 Update with bug and crash fixes, balance tweaks, and small improvements. For the full changelog please visit [The Showdown Effect: Reloaded discord](https://discord.gg/jUDTSUUTkG).
 
-**Note: There was an issue with the auto-updater in Version 1.0.3. If you are on 1.0.3 to update you will have to manually update by redownloading from [https://www.theshowdowneffectreloaded.com/](https://www.theshowdowneffectreloaded.com/) or by unzipping these [Changes.zip](https://github.com/GiuseppeIII/TheShowdownEffectReloaded/releases/download/v1.0.4/Changes.zip) into your current install. Sorry for any inconvenience.**
+**Note: There was an issue with the auto-updater in Version 1.0.3. If you are on 1.0.3 to update you will have to manually update by re-downloading from [https://www.theshowdowneffectreloaded.com/](https://www.theshowdowneffectreloaded.com/) or by unzipping these [Changes.zip](https://github.com/GiuseppeIII/TheShowdownEffectReloaded/releases/download/v1.0.4/Changes.zip) into your current install. Sorry for any inconvenience.**
