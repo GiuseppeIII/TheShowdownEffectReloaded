@@ -57,3 +57,10 @@ ___
 **Version 1.0.3 Released**
 
 Update with bug and crash fixes, balance tweaks, and small improvements. For the full changelog please visit [The Showdown Effect: Reloaded discord](https://discord.gg/jUDTSUUTkG).
+___
+
+### 09/05/2022 ###
+
+**Version 1.0.4 Released**
+
+Update with bug and crash fixes, balance tweaks, and small improvements. For the full changelog please visit [The Showdown Effect: Reloaded discord](https://discord.gg/jUDTSUUTkG).

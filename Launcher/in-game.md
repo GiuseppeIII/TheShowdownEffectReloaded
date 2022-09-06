@@ -8,3 +8,4 @@
 08/20 The Showdown Effect: Reloaded Official Release!
 08/27 Version 1.0.1 and 1.0.2 Released
 08/27 Version 1.0.3 Released
+09/05 Version 1.0.4 Released
