@@ -64,3 +64,34 @@ ___
 **Version 1.0.4 Released**
 
 Update with bug and crash fixes, balance tweaks, and small improvements. For the full changelog please visit [The Showdown Effect: Reloaded discord](https://discord.gg/jUDTSUUTkG).
+___
+
+### 09/10/2022 ###
+
+**Version 1.0.5 Released**
+
+**Balance:**
+
+* Reduced rifle reload skill check start time
+
+* Reduced rifle reload default time
+
+* Reduced rifle skill check fail time
+
+* Reduced shotgun knockback
+
+**Fixes:**
+
+* Wide monitor aim fix
+
+* Ranked spectate match crash
+
+* Rare TDM lobby crash
+
+* Ranked spectator misc. fixes
+
+**Changes:**
+
+* Ranked Showdown can be played with 4-6 players
+
+To discuss these changes please visit [The Showdown Effect: Reloaded discord](https://discord.gg/jUDTSUUTkG).
