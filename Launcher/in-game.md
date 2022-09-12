@@ -10,3 +10,4 @@
 08/27 Version 1.0.3 Released
 09/05 Version 1.0.4 Released
 09/10 Version 1.0.5 Released
+09/10 Version 1.0.6 Released

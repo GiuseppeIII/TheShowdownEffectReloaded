@@ -98,3 +98,17 @@ ___
 * Ranked Showdown can be played with 4-6 players
 
 To discuss these changes please visit [The Showdown Effect: Reloaded discord](https://discord.gg/jUDTSUUTkG).
+___
+
+### 09/11/2022 ###
+
+**Version 1.0.6 Released**
+
+
+**Changes:**
+
+* Ranked TDM Elo Update Improved
+
+* Unlockables and Skin Store accessible while in a server
+
+To discuss these changes please visit [The Showdown Effect: Reloaded discord](https://discord.gg/jUDTSUUTkG).
