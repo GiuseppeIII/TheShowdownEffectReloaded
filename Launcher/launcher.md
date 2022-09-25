@@ -112,3 +112,27 @@ ___
 * Unlockables and Skin Store accessible while in a server
 
 To discuss these changes please visit [The Showdown Effect: Reloaded discord](https://discord.gg/jUDTSUUTkG).
+
+### 09/24/2022 ###
+
+**Version 1.0.7 Released**
+
+
+**Balance:**
+
+* Slightly increased rifle damage
+
+**Enhancements:**
+
+* Slightly increased AC for playing in match
+
+* Random level generator will never pick the same level twice in a row
+
+**Bug Fixes:**
+
+* Ranked tdm use matches played now updates correctly
+
+* Rare ranked showdown crash fixed
+
+
+To discuss these changes please visit [The Showdown Effect: Reloaded discord](https://discord.gg/jUDTSUUTkG).
