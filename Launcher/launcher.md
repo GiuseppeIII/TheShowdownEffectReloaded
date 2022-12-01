@@ -139,7 +139,7 @@ ___
 To discuss these changes please visit [The Showdown Effect: Reloaded discord](https://discord.gg/jUDTSUUTkG).
 ___
 
-**Announcing The Showdown Effect: Reloaded League**
+### Announcing The Showdown Effect: Reloaded League ###
 
 With *The Showdown Effect: Reloaded* having been released over three months ago now (wow!), there has been a bit of a lull in activity in the game. To help remedy this and as a fun community activity we are proud to announce **The Showdown Effect: Reloaded League**. 
 
@@ -148,10 +148,10 @@ Every week we will have an officially sanctioned ranked match time (for playing 
 At the end of a season the players with the highest elo and most played games in both Showdown and Team modes will be memorialized in the [#hall-of-fame](https://discord.gg/jUDTSUUTkG) and get a unique discord role, with exclusive in-game awards coming in the future. Winners in each category will also receive 250,000 AC. 
 
 The season dates are as follows:
-● Winter: December 1, 2022 – February 28, 2023
-● Spring: March 20, 2023 – May 31, 2023 
-● Summer: June 1, 2023 – August 31, 2023
-● Fall: September 1, 2023 – November 30, 2023
+- Winter: December 1, 2022 – February 28, 2023
+- Spring: March 20, 2023 – May 31, 2023 
+- Summer: June 1, 2023 – August 31, 2023
+- Fall: September 1, 2023 – November 30, 2023
 
 If you have any questions on how anything will work, suggestions for improvements, or any other comments about **The Showdown Effect: Reloaded League**, we greatly appreciate all your feedback in [#league-discussion](https://discord.gg/jUDTSUUTkG)!
 
