@@ -12,4 +12,3 @@ Version 1.0.4 Released
 Version 1.0.5 Released
 Version 1.0.6 Released
 Version 1.0.7 Released
-Version 2.0 Official Steam Release!
